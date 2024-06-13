@@ -1,3 +1,0 @@
-node1 VM
-hostname: node1 
-Domain name: myguest.virtualbox.org
